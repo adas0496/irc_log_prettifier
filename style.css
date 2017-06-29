@@ -1,0 +1,15 @@
+table {
+	border-collapse: collapse;
+	font-family: monospace;
+}
+
+td {
+	background-color: #eaf0f9;
+	border-bottom: 1px solid #c0c3c6;
+	padding: 05px 10px;
+}
+
+.ops {
+	color: #075baf;
+	font-weight: bold;
+}
